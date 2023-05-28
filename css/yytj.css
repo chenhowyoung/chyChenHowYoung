@@ -1,0 +1,90 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    vertical-align: middle;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+div#container_1{
+    width: 25%;
+    height: 350px;
+    float: left;    
+}
+
+div#container_2{
+    width: 75%;
+    height: 350px;
+    float: left;
+}
+
+div#container_3{
+    width: 25%;
+    height: 350px;
+    float: right;
+}
+
+div#container_4{
+    width: 75%;
+    height: 350px;
+    float: right;
+}
+
+form {
+    width: 600px;
+	display: table;
+	padding: 10px;
+    border: thin dotted #7e7e7e;
+}
+
+form textarea {
+	width: 500px;
+	height: 100px;
+    
+}
+
+div.tableRow {
+	display: table-row;
+    
+}
+
+div.tableRow p {
+	display: table;
+	vertical-align: top;
+	/* 向上对齐 */
+	padding: 10px;
+    
+}
+div.tableRow p:first-child {
+	text-align: right;
+}
+p.heading {
+	font-weight: bold;
+}
+
+
+div#music{
+    top: 30%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 600px;
+    padding: 5px;
+    }
+    

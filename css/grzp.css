@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div#container_1{
+    width: auto;
+    height: auto;
+    
+    
+}
+
+div#container_1 h1{
+    text-align: center;
+    font-size: 35px;
+}
+
+div#container_1 p{
+    text-align: left;
+    font-size: 25px;
+}
+
+div#container_2{
+    width: auto;
+    height: auto;
+ 
+}
+
+div#container_2 p{
+    text-align: center;
+    font-size: 30px;
+    font-family: 楷体;
+}
+
+div#container_2 img{
+    vertical-align:middle;    
+}

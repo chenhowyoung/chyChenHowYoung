@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(217, 233, 47);
+}
+
+table{
+    font-size: 25px;
+    border: 2px rgb(186, 168, 5) solid;
+    width: 550px;
+    height: 225px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+
+}
+td{
+    border: 1px rgb(123, 123, 0) solid;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+tr{
+    text-align: center;
+}
+
+img{
+    float: left;
+    margin-top: 30px;
+    margin-left: 79.5px;
+    margin-right: 79.5px;
+    vertical-align: middle;
+}
